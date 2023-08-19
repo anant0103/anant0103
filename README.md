@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Anant Doshi.
 - 👀 I’m Software Developer.
-- 🌱 I’m currently studying Computer Engineering.
 - 📫 For contact, just visit www.anantdoshi.cf
