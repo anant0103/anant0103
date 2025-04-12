@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anant Doshi.
 - 👀 I’m Software Developer.
-- 📫 For contact, just visit www.anantdoshi.cf
+- 📫 For contact, just visit https://anantdoshi.epizy.com
